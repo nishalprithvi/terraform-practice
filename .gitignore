@@ -1,2 +1,3 @@
 *.terraform*
 *tfplan.binary*
+terraform.tfstate.backup
